@@ -1,3 +1,7 @@
-# We-Wak-to-You-Remix
+# A Simple Digital Poem
 
-was unable to get glitch to load a project for this excercise
+A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+
+## Made on [Glitch](https://glitch.com/)
+
+\ ゜ o ゜)ノ
